@@ -1,0 +1,10 @@
+solutions = [
+  {
+    "name": "src",
+    "url": "https://github.com/johnkryptochain/chromium.git",
+    "managed": False,
+    "custom_deps": {},
+    "custom_vars": {},
+  },
+]
+target_os = ["chromeos"]
